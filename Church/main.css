@@ -1,0 +1,527 @@
+/* NAVIGATION MENU */
+.navbar {
+  font-family: 'Poppins', sans-serif;
+  /* margin: 3% 0 3% 0%; */
+  padding: 3% 5% 3% 5%;
+}
+
+.brandy {
+  color: rgb(43, 126, 235);
+}
+
+.church_logo {
+  height: 50px;
+  margin-right: 10px;
+  width: 50px;
+}
+
+/* HORIZONTAL LINES STYLING*/
+.hr_1 {
+  border: 2px solid orange;
+  margin: 35px 0 35px 0;
+  width: 30%;
+}
+
+.hr_2 {
+  border: 2px solid orange;
+  margin: 30px 0 50px 45.5%;
+  width: 10%;
+}
+
+.hr_3 {
+  border: 2px solid orange;
+  margin: 30px 0 30px 140px;
+  width: 30%;
+}
+
+.hr_4 {
+  border: 2px solid orange;
+  margin: 30px 0 30px 0;
+  width: 35%;
+}
+
+.hr_5 {
+  margin: 30px 0 30px 25%;
+  width: 50%;
+}
+
+.hr_6 {
+  margin: 30px 0 30px 0;
+}
+
+/* BUTTONS STYLING */
+.gdi_btn:hover {
+  background-color: #ffc400;
+}
+
+/* BELOW HEADER */
+#below_gdi_header {
+  margin: 8% 5% 5% 5%;
+}
+
+.header_img {
+  height: 50%;
+  position: relative;
+  width: 100%;
+}
+
+.kiambu {
+  bottom: 320px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  left: 120px;
+  position: absolute;
+}
+
+.sunday_worship {
+  bottom: 200px;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  color: white;
+  font-size: 5rem;
+  left: 120px;
+  position: absolute;
+}
+
+.kiambu_one {
+  bottom: 100px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  left: 120px;
+  position: absolute;
+}
+
+.kiambu_two {
+  bottom: 10px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  left: 120px;
+  position: absolute;
+}
+
+.requests {
+  background-color: orange;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  height: 70px;
+  left: 120px;
+  margin-bottom: 10px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 700px;
+  width: 200px;
+}
+
+.watch_now {
+  background-color: orange;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  height: 70px;
+  left: 350px;
+  margin-bottom: 10px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 700px;
+  width: 200px;
+}
+
+/* COME JOIN US */
+#gdi_come_join_us {
+  margin: 5%;
+}
+
+.box_one {
+  background-color: orange;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  left: 190px;
+  padding-top: 11px;
+  position: absolute;
+  top: 1200px;
+  width: 150px;
+}
+
+.box_two {
+  background-color: orange;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  left: 600px;
+  padding-top: 11px;
+  position: absolute;
+  top: 1200px;
+  width: 150px;
+}
+
+.box_three {
+  background-color: orange;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  left: 1010px;
+  padding-top: 11px;
+  position: absolute;
+  top: 1200px;
+  width: 150px;
+}
+
+/* LEAD PASTOR */
+#pastor_gdi {
+  margin: 5% 6% 5% 6%;
+}
+
+.boxed_pastor {
+  background-color: rgb(245, 245, 255);
+  padding: 5% 5% 0 5%;
+}
+
+.the_church {
+  color: orange;
+}
+
+.about_pastor {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+}
+
+.more_about_pastor {
+  font-family: 'Poppins', sans-serif;
+}
+
+.pastor_photo {
+  margin-left: 30px;
+  height: 450px;
+  width: 500px;
+}
+
+.learn_more_buttom {
+  background-color: orange;
+  color: white;
+  height: 50px;
+  left: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+}
+
+.rev_name {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 1.5rem;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.connect_button {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  height: 50px;
+  margin: 20px 0 50px 190px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  width: 150px;
+}
+
+.lead_pastor {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  text-align: center;
+}
+
+/* WHAT WE DO */
+#our_minigdistries {
+  margin: 5%;
+  text-align: center;
+}
+.images{
+  height: 250px;
+  position: relative;
+  width: 390px;
+}
+.what_we_do {
+  color: orange;
+}
+
+.lower_learn_more {
+  border: 3px solid orange;
+  color: orange;
+  font-weight: bolder;
+  height: 50px;
+  margin: 30px 0 0 100px;
+  padding-top: 10px;
+  width: 200px;
+}
+
+.love_kissing {
+  padding: 5%;
+}
+
+.ministry_titles {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  margin-top: 30px;
+}
+
+/* FIND YOUR FAITH */
+#find_your_faithgdi {
+  margin: 5%;
+}
+
+.find_your_path {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 3100px;
+}
+
+.lorem {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 3150px;
+  padding-right: 50%;
+}
+
+.find_your_faithgdi {
+  background-color: rgb(245, 245, 255);
+  border-radius: 50px 0 0;
+  height: 500px;
+  margin-left: 0;
+  padding: 5%;
+  width: 100%;
+}
+
+.water_images {
+  border-radius: 0 0 0 50px;
+  position: relative;
+  width: 100%;
+}
+
+.jesus_cross {
+  border-radius: 5px 60px;
+  height: 400px;
+  margin-left: 20px;
+  width: 500px;
+}
+
+.join_us_today {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  height: 50px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  width: 200px;
+}
+
+/* OUR PEOPLE */
+#our_gdi_people {
+  margin: 5%;
+  text-align: center;
+}
+
+.services_people_images {
+  border-radius: 0 40px 20px;
+  height: 400px;
+  margin: 10px 0 30px;
+  width: 300px;
+}
+
+/* COVID STATEMENT */
+#covid_statement {
+  margin: 5%;
+  text-align: center;
+}
+
+.covid {
+  background-color: rgb(245, 245, 255);
+  height: 500px;
+  padding: 7% 10%;
+  width: 100%;
+}
+
+.watch_live {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  height: 50px;
+  margin: 3% 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  text-align: center;
+  width: 200px;
+}
+
+/* TESTIMONIALS */
+#testimonial {
+  margin: 5%;
+}
+
+.corousel_icons {
+  border-radius: 50%;
+  background-color: orange;
+  height: 40px;
+  width: 40px;
+}
+
+.corousel_img {
+  border-radius: 50%;
+  height: 100px;
+  margin-bottom: 20px;
+  width: 100px;
+}
+
+.profiles {
+  background-color: rgb(245, 245, 255);
+  height: 300px;
+  padding: 50px;
+  width: 700px;
+}
+
+.testimonial-text {
+  display: flex;
+  justify-content: flex-start;
+  font-family: 'Poppins', sans-serif;
+}
+
+.carousel-item {
+  padding: 3% 21%;
+}
+
+.testimony_profiles {
+  bottom: 190px;
+  left: 420px;
+  position: absolute;
+}
+
+.reach_us {
+  text-align: center;
+}
+
+.quotation {
+  visibility: hidden;
+}
+
+.what_people_say {
+  text-align: center;
+}
+
+/* CONTACT US */
+#contact_us {
+  background-color: rgb(245, 245, 255);
+  margin: 5%;
+}
+
+.cross_images {
+  border-radius: 5px 50px 0;
+  height: 500px;
+  width: 100%
+}
+
+.contact_us {
+  padding: 5%;
+}
+
+/* FOOTER */
+#footr_section_gdi {
+  background-color: rgb(245, 245, 255);
+  padding: 5% 5% 2% 5%;
+}
+
+.support_mission {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  height: 50px;
+  margin: 5% 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  text-align: center;
+  width: 250px;
+}
+
+.footer_logo {
+  text-align: center;
+}
+
+.church_logo_2 {
+  height: 70px;
+  width: 70px;
+}
+
+.bottom_logo {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.one_gdi {
+  color: rgb(43, 126, 235);
+  margin-left: 20px;
+}
+
+.two_gdi {
+  color: black;
+}
+
+.services_text {
+  margin-top: 60px;
+}
+
+.socials_1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.socials {
+  border-radius: 100%;
+  margin: 0 20px 0 0;
+}
+
+.icons {
+  margin: 0 10px 0 10px;
+}
+
+.copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
