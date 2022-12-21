@@ -46,6 +46,6 @@ This project is licensed under the **MIT License** - see the **LICENSE** file fo
 We would like to thank the following individuals and organizations for their support and assistance with this project:
 
 - [**Bootstrap**](https://getbootstrap.com/)
-- [**jQueRry**](https://jquery.com/)
+- [**jQuery**](https://jquery.com/)
 - [**Font Awesome**](https://fontawesome.com/)
 - [**Google Fonts**](https://fonts.google.com/knowledge)
