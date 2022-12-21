@@ -1,24 +1,26 @@
 Here is a simple example of a README file for a church project built with Bootstrap, HTML, JavaScript, and CSS:
 
 # Church Project
+
 This project is a website for a church, built with Bootstrap, HTML, JavaScript, and CSS. It features a responsive design that looks great on all devices and screen sizes.
 
-## Features
+### Features
 
 -----
+
 - Homepage with information about the church and its mission
 - Events calendar showing upcoming events and services
 - Media page with links to sermons and other videos
 - Contact page with a form for visitors to get in touch with the church
 
-## Technologies Used
+### Technologies Used
 
 -----
+
 + HTML
 + CSS
 + JavaScript
 + Bootstrap
-+ Installation
 
 ### To run this project, follow these steps:
 
@@ -43,6 +45,7 @@ This project is licensed under the **MIT License** - see the **LICENSE** file fo
 -----
 We would like to thank the following individuals and organizations for their support and assistance with this project:
 
-**Bootstrap**
-**jQueRry**
-**Font Awesome**
+- [**Bootstrap**](https://getbootstrap.com/)
+- [**jQueRry**](https://jquery.com/)
+- [**Font Awesome**](https://fontawesome.com/)
+- [**Google Fonts**](https://fonts.google.com/knowledge)
